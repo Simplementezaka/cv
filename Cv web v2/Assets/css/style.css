@@ -1,0 +1,31 @@
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+h1, h2, h3, h4{
+    font-weight: 900;
+}
+
+h2{
+    padding-bottom: 1em;
+}
+
+h5{ font-weight: bold;
+    color: rgb(249, 178, 51);
+}
+
+#exp{
+    padding-bottom: 1em;
+}
+
+#formacion-academica{
+    background-color: rgb(245, 245, 245);
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+footer{
+    background-color:rgb(249, 178, 51); 
+    padding: 20px; 
+    text-align: center;
+}
